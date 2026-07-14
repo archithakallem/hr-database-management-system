@@ -1,4 +1,4 @@
-# SQL-PROJECT-
+# hr-database-management
 HR DATABASE MANAGEMENT SYSTEM
 Overview
 This project demonstrates comprehensive SQL skills through an HR Database Management System that includes seven interconnected tables. It addresses diverse business queries and challenges using structured SQL commands, advanced queries, and data analysis techniques.
